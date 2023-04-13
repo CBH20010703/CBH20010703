@@ -19,7 +19,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-NetCore-brightgreen)
-![Liunx](https://img.shields.io/badge/Linux-Cenots-lightgrey)
+![Liunx](https://img.shields.io/badge/Linux-Centos-lightgrey)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
