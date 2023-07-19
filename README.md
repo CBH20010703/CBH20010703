@@ -29,4 +29,4 @@
 - 微信: CenCode2001; 
 - QQ: 47790293;
 - 邮箱: 47790293@qq.com;
-- 博客 [https://cenbohao.com/Home](https://cenbohao.com/Article)https://cenbohao.com/Article
+- 博客 https://cenbohao.com/Article
